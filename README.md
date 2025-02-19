@@ -1,4 +1,4 @@
-# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn/blob/master/README.md#atet--learn) / [**_tableau_**](https://github.com/atet/learn/blob/master/tableau/README.md#atet--learn--tableau)
+# [atet](https://github.com/atet) / [**_tableau_**](https://github.com/atet/tableau?tab=readme-ov-file#atet--tableau)
 
 [![.img/logo_tableau.png](.img/logo_tableau.png)](#nolink)
 
@@ -57,7 +57,7 @@
 ## 2. Example Data
 
 * We will use a small dataset of vehicles as an example<sup>[[1]](#acknowledgments)</sup>
-* Click here for the dataset (right-click and "Save as..." then save as `mtcars.csv`): <a href="https://raw.githubusercontent.com/atet/learn/master/tableau/data/mtcars.csv" target="_blank">https://raw.githubusercontent.com/atet/learn/master/tableau/data/mtcars.csv</a>
+* Click here for the dataset (right-click and "Save as..." then save as `mtcars.csv`): <a href="https://raw.githubusercontent.com/atet/tableau/main/data/mtcars.csv" target="_blank">https://raw.githubusercontent.com/atet/tableau/main/data/mtcars.csv</a>
 * This Comma Separated Values (CSV) file contains 32 records of vehicles and 12 attributes describing them (e.g. "id" = name, "mpg" = miles per gallon, etc.):
 
 [![.img/step02.png](.img/step02.png)](#nolink)
